@@ -1,1 +1,0 @@
-# Assignment-for-a-junior-frontend-developer
